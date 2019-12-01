@@ -1,2 +1,2 @@
-# shashwatPROJ
-corrected the error and now the player sprite is moving up and down
+# p5.play-boilerplate
+Boiler plate for p5.play
